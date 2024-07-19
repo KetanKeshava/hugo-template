@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com" 
-title = "johndoe"
+title = "Ketan Keshava"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -15,17 +15,17 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "John Doe"
+author = "Ketan Keshava"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website, a Northeastern University student"
+description = "Ketan Keshava's personal website, a Northeastern University student"
 keywords = "blog,student,northeastern,personal"
 info = ["Computer Science Student", "Northeastern University"]  
 avatarURL = "images/avatar.png"
-#gravatar = "john.doe@example.com"
+#gravatar = "keshava.ke@northeastern.edu"
 dateFormat = "January 2, 2006"
-since = 2019
+since = 2018
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/johndoe/johndoe.github.io/tree/"
+commit = "https://github.com/Ketan Keshava/Ketan Keshava.github.io/tree/"
 # Right To Left, shift content direction for languages such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -59,19 +59,19 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/Ketan Keshava/"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://gitlab.com/Ketan Keshava/"
 
 [[params.social]] 
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"  
 weight = 3
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/Ketan Keshava/"
 
 [[params.social]]
 name = "RSS"

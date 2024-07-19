@@ -4,7 +4,7 @@ date: 2023-07-19
 draft: false
 ---
 
-# John Doe
+# Ketan Keshava
 Computer Science Student | Northeastern University  
 
 ## Education
@@ -74,7 +74,7 @@ June 2020 - August 2020
 - HackerRank Gold Badge in Problem Solving
 
 ## Contact Information
-- Email: john.doe@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- Email: keshava.ke@northeastern.edu
+- Phone: 857-379-6284
+- LinkedIn: [linkedin.com/in/Ketan Keshava](https://www.linkedin.com/in/Ketan Keshava)
+- GitHub: [github.com/Ketan Keshava](https://github.com/Ketan Keshava)

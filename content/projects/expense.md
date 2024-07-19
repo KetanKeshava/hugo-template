@@ -52,7 +52,7 @@ The Expense Tracker Web App is a full-stack application designed to help users t
 ## Installation and Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/johndoe/expense-tracker.git
+   git clone https://github.com/Ketan Keshava/expense-tracker.git
    ```
 2. Navigate to the project directory:
    ```
@@ -91,13 +91,13 @@ The Expense Tracker Web App is a full-stack application designed to help users t
 - Enhance the data visualization with more advanced charts and insights
 
 ## Contributing
-Contributions to the Expense Tracker Web App are welcome! If you find any bugs or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/johndoe/expense-tracker). If you'd like to contribute code, please fork the repository and submit a pull request with your changes.
+Contributions to the Expense Tracker Web App are welcome! If you find any bugs or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/Ketan Keshava/expense-tracker). If you'd like to contribute code, please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/johndoe/expense-tracker/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ketan Keshava/expense-tracker/blob/main/LICENSE) file for more information.
 
 ## Contact
 If you have any questions or inquiries about the Expense Tracker Web App, feel free to reach out:
-- Email: john.doe@example.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- Email: keshava.ke@northeastern.edu
+- LinkedIn: [linkedin.com/in/Ketan Keshava](https://www.linkedin.com/in/Ketan Keshava)
+- GitHub: [github.com/Ketan Keshava](https://github.com/Ketan Keshava)
